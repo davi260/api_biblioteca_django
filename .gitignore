@@ -1,0 +1,20 @@
+# Ambiente Virtual
+venv/
+env/
+ENV/
+
+# Caches do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Banco de dados local (descomente se não for enviar o banco com dados de teste)
+db.sqlite3
+
+# Arquivos da IDE / Editor
+.vscode/
+.idea/
+
+# Outros
+*.log
+.DS_Store
